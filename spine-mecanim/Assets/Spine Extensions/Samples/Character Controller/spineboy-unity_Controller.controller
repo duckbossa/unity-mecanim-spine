@@ -2489,7 +2489,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8833fe25feb0947ab850f00a2a119ca0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _motion: {fileID: 74615790423517630}
+  _motion: {fileID: 74571298769989054}
   _isLooping: 1
   _overrideAnimation: 0
   _track: 0
@@ -2927,7 +2927,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 74615790423517630}
+  m_Motion: {fileID: 74571298769989054}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -2944,7 +2944,7 @@ AnimatorStateMachine:
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: 1102161273616980622}
-    m_Position: {x: 566.53845, y: 548.96155, z: 0}
+    m_Position: {x: 576, y: 552, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102703545382612366}
     m_Position: {x: 912, y: 360, z: 0}
