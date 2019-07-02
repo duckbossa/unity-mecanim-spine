@@ -260,9 +260,9 @@ GameObject:
   - component: {fileID: 967593262}
   - component: {fileID: 967593261}
   - component: {fileID: 967593260}
-  - component: {fileID: 967593263}
   - component: {fileID: 967593259}
   - component: {fileID: 967593264}
+  - component: {fileID: 967593263}
   m_Layer: 0
   m_Name: Spine GameObject (spineboy-pro)
   m_TagString: Untagged
