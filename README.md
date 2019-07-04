@@ -21,7 +21,7 @@ Attach the desired motions to your animation controller. Add the `SpineStateAnim
 
 Now you can use the animator parameters to control your spine animations!
 
-I've added a 
+I've added another component (`SpineEventsListener.cs`) which you can use to listen to custom spine events in your animations.
 
 
 ## Notes
