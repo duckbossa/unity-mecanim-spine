@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fad16b46-cda7-49c6-bf16-ed9190afd879" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.spine-mecanim/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.spine-mecanim/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.spine-mecanim/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.spine-mecanim/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.spine-mecanim/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.spine-mecanim/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.spine-mecanim/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.spine-mecanim/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Spine Extensions/Samples.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Spine Extensions/Samples/Character Controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Spine Extensions/Samples/Character Controller/CharacterController.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Spine Extensions/Samples/Character Controller/CharacterController.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Spine Extensions/Samples/Character Controller/spineboy-pro_Controller.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Spine Extensions/Samples/Character Controller/spineboy-pro_Controller.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Spine Extensions/Scripts/SpineEventsListener.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Spine Extensions/Scripts/SpineEventsListener.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spine Examples/Getting Started/4 Object Oriented Sample.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Spine Examples/Getting Started/4 Object Oriented Sample.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/FootSoldier/FootSoldier_SkeletonData.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/FootSoldier/FootSoldier_SkeletonData.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/spineboy-pro/spineboy-pro_Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/spineboy-pro/spineboy-pro_Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/spineboy-pro/spineboy-pro_SkeletonData.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/spineboy-pro/spineboy-pro_SkeletonData.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/spineboy-unity/spineboy-unity_SkeletonData.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/spineboy-unity/spineboy-unity_SkeletonData.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spine Extensions/Scripts/SpineStateAnimationBehavior.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Spine Extensions/Scripts/SpineStateAnimationBehavior.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Spine Extensions/Scripts/SpineEventsListener.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="411">
+              <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+              <folding>
+                <marker date="1560829262158" expanded="false" signature="6:78" ph="..." />
+                <marker date="1560829262158" expanded="true" signature="113:896" ph="{...}" />
+                <marker date="1560829262158" expanded="true" signature="168:894" ph="{...}" />
+                <marker date="1560829262158" expanded="true" signature="379:467" ph="{...}" />
+                <marker date="1560829262158" expanded="true" signature="496:594" ph="{...}" />
+                <marker date="1560829262158" expanded="true" signature="627:725" ph="{...}" />
+                <marker date="1560829262158" expanded="true" signature="801:888" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Spine Extensions/Scripts/SpineStateAnimationBehavior.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="48" column="97" selection-start-line="48" selection-start-column="97" selection-end-line="48" selection-end-column="97" />
+              <folding>
+                <marker date="1560859601531" expanded="true" signature="6:86" ph="..." />
+                <marker date="1560859601531" expanded="true" signature="123:2812" ph="{...}" />
+                <marker date="1560859601531" expanded="true" signature="196:2809" ph="{...}" />
+                <marker date="1560859601531" expanded="true" signature="1089:1221" ph="{...}" />
+                <marker date="1560859601531" expanded="true" signature="1336:2340" ph="{...}" />
+                <marker date="1560859601531" expanded="true" signature="1692:1818" ph="{...}" />
+                <marker date="1560859601531" expanded="true" signature="1835:2330" ph="{...}" />
+                <marker date="1560859601531" expanded="true" signature="1883:2083" ph="/* checks if the current track is null or if the current animation ... */" />
+                <marker date="1560859601531" expanded="true" signature="2178:2316" ph="{...}" />
+                <marker date="1560859601531" expanded="true" signature="2457:2802" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Spine Examples/Scripts/Getting Started Scripts/SpineboyBeginnerView.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+              <folding>
+                <marker date="1560772401715" expanded="true" signature="0:1688" ph="/* Spine Runtimes License Agreement ... */" />
+                <marker date="1560772401715" expanded="false" signature="1696:1753" ph="..." />
+                <marker date="1560772401715" expanded="true" signature="1786:4954" ph="{...}" />
+                <marker date="1560772401715" expanded="true" signature="1839:4951" ph="{...}" />
+                <marker date="1560772401715" expanded="true" signature="1844:2318" ph="Inspector" />
+                <marker date="1560772401715" expanded="true" signature="2381:2520" ph="{...}" />
+                <marker date="1560772401715" expanded="true" signature="2586:2658" ph="{...}" />
+                <marker date="1560772401715" expanded="true" signature="2677:3129" ph="{...}" />
+                <marker date="1560772401715" expanded="true" signature="2820:2920" ph="{...}" />
+                <marker date="1560772401715" expanded="true" signature="3046:3082" ph="{...}" />
+                <marker date="1560772401715" expanded="true" signature="3164:3771" ph="{...}" />
+                <marker date="1560772401715" expanded="true" signature="3405:3436" ph="{...}" />
+                <marker date="1560772401715" expanded="true" signature="3494:3549" ph="{...}" />
+                <marker date="1560772401715" expanded="true" signature="3614:3647" ph="{...}" />
+                <marker date="1560772401715" expanded="true" signature="3801:3895" ph="{...}" />
+                <marker date="1560772401715" expanded="true" signature="3951:4075" ph="{...}" />
+                <marker date="1560772401715" expanded="true" signature="4079:4795" ph="Transient Actions" />
+                <marker date="1560772401715" expanded="true" signature="4132:4591" ph="{...}" />
+                <marker date="1560772401715" expanded="true" signature="4630:4782" ph="{...}" />
+                <marker date="1560772401715" expanded="true" signature="4799:4948" ph="Utility" />
+                <marker date="1560772401715" expanded="true" signature="4868:4935" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Spine Examples/Scripts/Getting Started Scripts/SpineboyBeginnerInput.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="332">
+              <caret line="54" column="28" lean-forward="true" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
+              <folding>
+                <marker date="1560769639000" expanded="true" signature="0:1688" ph="/* Spine Runtimes License Agreement ... */" />
+                <marker date="1560769639000" expanded="false" signature="1696:1734" ph="..." />
+                <marker date="1560769639000" expanded="true" signature="1767:2403" ph="{...}" />
+                <marker date="1560769639000" expanded="true" signature="1821:2400" ph="{...}" />
+                <marker date="1560769639000" expanded="false" signature="1825:2119" ph="Inspector" />
+                <marker date="1560769639000" expanded="true" signature="2028:2106" ph="{...}" />
+                <marker date="1560769639000" expanded="true" signature="2138:2397" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Spine Examples/Scripts/Getting Started Scripts/SpineboyBeginnerModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-380">
+              <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+              <folding>
+                <marker date="1560769639000" expanded="true" signature="0:1688" ph="/* Spine Runtimes License Agreement ... */" />
+                <marker date="1560769639000" expanded="false" signature="1696:1734" ph="..." />
+                <marker date="1560769639000" expanded="true" signature="1767:3861" ph="{...}" />
+                <marker date="1560769639000" expanded="true" signature="1838:3788" ph="{...}" />
+                <marker date="1560769639000" expanded="true" signature="1843:2075" ph="Inspector" />
+                <marker date="1560769639000" expanded="true" signature="2263:2992" ph="API" />
+                <marker date="1560769639000" expanded="true" signature="2300:2339" ph="{...}" />
+                <marker date="1560769639000" expanded="true" signature="2367:2573" ph="{...}" />
+                <marker date="1560769639000" expanded="true" signature="2456:2569" ph="{...}" />
+                <marker date="1560769639000" expanded="true" signature="2611:2979" ph="{...}" />
+                <marker date="1560769639000" expanded="true" signature="2696:2829" ph="{...}" />
+                <marker date="1560769639000" expanded="true" signature="2879:2974" ph="{...}" />
+                <marker date="1560769639000" expanded="true" signature="3023:3784" ph="{...}" />
+                <marker date="1560769639000" expanded="true" signature="3390:3521" ph="{...}" />
+                <marker date="1560769639000" expanded="true" signature="3575:3699" ph="{...}" />
+                <marker date="1560769639000" expanded="true" signature="3826:3859" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Spine Examples/Scripts/Getting Started Scripts/SpineboyTargetController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="236">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
+              <folding>
+                <marker date="1560769639000" expanded="true" signature="0:1688" ph="/* Spine Runtimes License Agreement ... */" />
+                <marker date="1560769639000" expanded="true" signature="1741:2570" ph="{...}" />
+                <marker date="1560769639000" expanded="true" signature="1798:2567" ph="{...}" />
+                <marker date="1560769639000" expanded="true" signature="1983:2077" ph="{...}" />
+                <marker date="1560769639000" expanded="true" signature="2095:2157" ph="{...}" />
+                <marker date="1560769639000" expanded="true" signature="2176:2564" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Spine Extensions/Samples/Character Controller/SampleAnimatorController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="53" column="43" selection-start-line="53" selection-start-column="43" selection-end-line="53" selection-end-column="43" />
+              <folding>
+                <marker date="1560858455774" expanded="true" signature="6:78" ph="..." />
+                <marker date="1560858455774" expanded="true" signature="133:1227" ph="{...}" />
+                <marker date="1560858455774" expanded="true" signature="228:268" ph="{...}" />
+                <marker date="1560858455774" expanded="true" signature="287:993" ph="{...}" />
+                <marker date="1560858455774" expanded="true" signature="330:438" ph="{...}" />
+                <marker date="1560858455774" expanded="true" signature="480:602" ph="{...}" />
+                <marker date="1560858455774" expanded="true" signature="615:682" ph="{...}" />
+                <marker date="1560858455774" expanded="true" signature="729:788" ph="{...}" />
+                <marker date="1560858455774" expanded="true" signature="834:986" ph="{...}" />
+                <marker date="1560858455774" expanded="true" signature="873:976" ph="{...}" />
+                <marker date="1560858455774" expanded="true" signature="1017:1224" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Spine Examples/Scripts/FootSoldierExample.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-32">
+              <caret line="68" column="27" selection-start-line="68" selection-start-column="27" selection-end-line="68" selection-end-column="27" />
+              <folding>
+                <marker date="1560769639000" expanded="true" signature="0:1688" ph="/* Spine Runtimes License Agreement ... */" />
+                <marker date="1560769639000" expanded="false" signature="1731:1788" ph="..." />
+                <marker date="1560769639000" expanded="true" signature="1821:3651" ph="{...}" />
+                <marker date="1560769639000" expanded="true" signature="1872:3649" ph="{...}" />
+                <marker date="1560769639000" expanded="true" signature="2549:2653" ph="{...}" />
+                <marker date="1560769639000" expanded="true" signature="2704:2737" ph="{...}" />
+                <marker date="1560769639000" expanded="true" signature="2756:3331" ph="{...}" />
+                <marker date="1560769639000" expanded="true" signature="2790:2851" ph="{...}" />
+                <marker date="1560769639000" expanded="true" signature="2891:3056" ph="{...}" />
+                <marker date="1560769639000" expanded="true" signature="3088:3255" ph="{...}" />
+                <marker date="1560769639000" expanded="true" signature="3355:3646" ph="{...}" />
+                <marker date="1560769639000" expanded="true" signature="3373:3642" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Spine/Runtime/spine-csharp/Skeleton.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="65" column="21" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="21" />
+              <folding>
+                <marker date="1560769638000" expanded="true" signature="0:1688" ph="/* Spine Runtimes License Agreement ... */" />
+                <marker date="1560769638000" expanded="false" signature="1696:1737" ph="..." />
+                <marker date="1560769638000" expanded="true" signature="1755:24385" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="1780:24383" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="3965:4030" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="4070:5622" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="4277:4554" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="4327:4382" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="4709:4857" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="5626:5790" ph="///Caches information about bones and constraints. Must be called if bones, constraints or weighted path attachme ... " />
+                <marker date="1560769638000" expanded="true" signature="5820:7260" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="6416:7177" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="6459:6649" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="6554:6643" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="6698:6909" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="6807:6903" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="6953:7149" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="7052:7143" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="7320:7775" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="7510:7647" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="7839:8776" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="8850:9474" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="8992:9183" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="9034:9178" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="9562:9705" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="9790:10160" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="9946:10156" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="10035:10151" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="10198:10351" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="10411:10607" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="10494:10603" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="10739:11322" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="10904:11190" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="11326:11500" ph="/// Updates the world transform for each bone and applies all constraints. The root bone will be temporarily pare ... " />
+                <marker date="1560769638000" expanded="true" signature="11550:13440" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="11555:11821" ph="/* This partial update avoids computing the world transform for constrained bones when 1) the bone is not updated ... */" />
+                <marker date="1560769638000" expanded="true" signature="11985:12271" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="12276:12396" ph="/* Apply the parent bone transform to the root bone. The root bone ... */" />
+                <marker date="1560769638000" expanded="true" signature="13333:13436" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="13566:13623" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="13746:15180" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="13981:14246" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="14379:14728" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="14845:15176" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="15219:15473" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="15554:15868" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="15762:15848" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="15970:16250" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="16331:16645" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="16539:16625" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="16747:17032" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="17134:17305" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="17309:18024" ph="/// &lt;para&gt;Attachments from the new skin are attached if the corresponding attachment from the old skin was attach ... " />
+                <marker date="1560769638000" expanded="true" signature="18062:18532" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="18088:18509" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="18147:18504" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="18252:18498" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="18358:18491" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="18536:18726" ph="///Finds an attachment by looking in the {@link ##skin} and {@link SkeletonData##defaultSkin} using the slot name a ... " />
+                <marker date="1560769638000" expanded="true" signature="18802:18878" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="18882:19147" ph="///Finds an attachment by looking in the skin and skeletonData.defaultSkin using the slot index and attachment na ... " />
+                <marker date="1560769638000" expanded="true" signature="19221:19595" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="19360:19488" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="19599:19838" ph="///A convenience method to set an attachment by finding the slot with FindSlot, finding the attachment with GetAt ... " />
+                <marker date="1560769638000" expanded="true" signature="19908:20538" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="20097:20479" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="20167:20474" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="20237:20420" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="20644:21036" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="20883:21016" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="21153:21608" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="21420:21588" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="21715:22118" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="21962:22098" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="22155:22178" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="22182:22820" ph="///Returns the axis aligned bounding box (AABB) of the region and mesh attachments for the current pose. ... " />
+                <marker date="1560769638000" expanded="true" signature="22933:24380" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="23195:24277" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="23427:23607" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="23704:23984" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="24018:24272" ph="{...}" />
+                <marker date="1560769638000" expanded="true" signature="24072:24266" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>run</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Spine Examples/Scripts/Getting Started Scripts/SpineboyBeginnerInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Spine Examples/Scripts/Getting Started Scripts/SpineboyBeginnerView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Spine Extensions/Samples/Character Controller/SampleAnimatorController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Spine Examples/Scripts/Getting Started Scripts/SpineboyTargetController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Spine Examples/Scripts/Getting Started Scripts/SpineboyBeginnerModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Spine/Runtime/spine-csharp/Skeleton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Spine Extensions/Scripts/SpineEventsListener.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Spine Examples/Scripts/FootSoldierExample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Spine Extensions/Scripts/SpineStateAnimationBehavior.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Spine Extensions/Scripts/SpineEventsListener.cs" />
+        <option value="$PROJECT_DIR$/Assets/Spine Examples/Scripts/Getting Started Scripts/SpineboyBeginnerInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Spine Extensions/Samples/Character Controller/SampleAnimatorController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Spine Extensions/Scripts/SpineStateAnimationBehavior.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Spine Examples" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Spine Extensions" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Spine Extensions" type="1045f7f1:UnityExplorerNode" />
+              <item name="Samples" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Spine Extensions" type="1045f7f1:UnityExplorerNode" />
+              <item name="Samples" type="1045f7f1:UnityExplorerNode" />
+              <item name="Character Controller" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Spine Extensions" type="1045f7f1:UnityExplorerNode" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fad16b46-cda7-49c6-bf16-ed9190afd879" name="Default Changelist" comment="" />
+      <created>1560824550896</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560824550896</updated>
+      <workItem from="1560824553031" duration="12602000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12602000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="705" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.063621536" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32952693" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Spine Examples/Scripts/FootSoldierExample.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-32">
+          <caret line="68" column="27" selection-start-line="68" selection-start-column="27" selection-end-line="68" selection-end-column="27" />
+          <folding>
+            <marker date="1560769639000" expanded="true" signature="0:1688" ph="/* Spine Runtimes License Agreement ... */" />
+            <marker date="1560769639000" expanded="false" signature="1731:1788" ph="..." />
+            <marker date="1560769639000" expanded="true" signature="1821:3651" ph="{...}" />
+            <marker date="1560769639000" expanded="true" signature="1872:3649" ph="{...}" />
+            <marker date="1560769639000" expanded="true" signature="2549:2653" ph="{...}" />
+            <marker date="1560769639000" expanded="true" signature="2704:2737" ph="{...}" />
+            <marker date="1560769639000" expanded="true" signature="2756:3331" ph="{...}" />
+            <marker date="1560769639000" expanded="true" signature="2790:2851" ph="{...}" />
+            <marker date="1560769639000" expanded="true" signature="2891:3056" ph="{...}" />
+            <marker date="1560769639000" expanded="true" signature="3088:3255" ph="{...}" />
+            <marker date="1560769639000" expanded="true" signature="3355:3646" ph="{...}" />
+            <marker date="1560769639000" expanded="true" signature="3373:3642" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Spine/Runtime/spine-csharp/Skeleton.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="65" column="21" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="21" />
+          <folding>
+            <marker date="1560769638000" expanded="true" signature="0:1688" ph="/* Spine Runtimes License Agreement ... */" />
+            <marker date="1560769638000" expanded="false" signature="1696:1737" ph="..." />
+            <marker date="1560769638000" expanded="true" signature="1755:24385" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="1780:24383" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="3965:4030" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="4070:5622" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="4277:4554" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="4327:4382" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="4709:4857" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="5626:5790" ph="///Caches information about bones and constraints. Must be called if bones, constraints or weighted path attachme ... " />
+            <marker date="1560769638000" expanded="true" signature="5820:7260" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="6416:7177" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="6459:6649" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="6554:6643" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="6698:6909" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="6807:6903" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="6953:7149" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="7052:7143" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="7320:7775" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="7510:7647" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="7839:8776" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="8850:9474" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="8992:9183" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="9034:9178" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="9562:9705" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="9790:10160" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="9946:10156" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="10035:10151" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="10198:10351" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="10411:10607" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="10494:10603" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="10739:11322" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="10904:11190" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="11326:11500" ph="/// Updates the world transform for each bone and applies all constraints. The root bone will be temporarily pare ... " />
+            <marker date="1560769638000" expanded="true" signature="11550:13440" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="11555:11821" ph="/* This partial update avoids computing the world transform for constrained bones when 1) the bone is not updated ... */" />
+            <marker date="1560769638000" expanded="true" signature="11985:12271" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="12276:12396" ph="/* Apply the parent bone transform to the root bone. The root bone ... */" />
+            <marker date="1560769638000" expanded="true" signature="13333:13436" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="13566:13623" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="13746:15180" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="13981:14246" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="14379:14728" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="14845:15176" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="15219:15473" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="15554:15868" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="15762:15848" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="15970:16250" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="16331:16645" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="16539:16625" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="16747:17032" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="17134:17305" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="17309:18024" ph="/// &lt;para&gt;Attachments from the new skin are attached if the corresponding attachment from the old skin was attach ... " />
+            <marker date="1560769638000" expanded="true" signature="18062:18532" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="18088:18509" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="18147:18504" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="18252:18498" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="18358:18491" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="18536:18726" ph="///Finds an attachment by looking in the {@link ##skin} and {@link SkeletonData##defaultSkin} using the slot name a ... " />
+            <marker date="1560769638000" expanded="true" signature="18802:18878" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="18882:19147" ph="///Finds an attachment by looking in the skin and skeletonData.defaultSkin using the slot index and attachment na ... " />
+            <marker date="1560769638000" expanded="true" signature="19221:19595" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="19360:19488" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="19599:19838" ph="///A convenience method to set an attachment by finding the slot with FindSlot, finding the attachment with GetAt ... " />
+            <marker date="1560769638000" expanded="true" signature="19908:20538" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="20097:20479" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="20167:20474" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="20237:20420" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="20644:21036" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="20883:21016" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="21153:21608" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="21420:21588" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="21715:22118" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="21962:22098" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="22155:22178" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="22182:22820" ph="///Returns the axis aligned bounding box (AABB) of the region and mesh attachments for the current pose. ... " />
+            <marker date="1560769638000" expanded="true" signature="22933:24380" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="23195:24277" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="23427:23607" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="23704:23984" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="24018:24272" ph="{...}" />
+            <marker date="1560769638000" expanded="true" signature="24072:24266" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Spine Examples/Scripts/Getting Started Scripts/SpineboyTargetController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <marker date="1560769639000" expanded="true" signature="0:1688" ph="/* Spine Runtimes License Agreement ... */" />
+            <marker date="1560769639000" expanded="true" signature="1741:2570" ph="{...}" />
+            <marker date="1560769639000" expanded="true" signature="1798:2567" ph="{...}" />
+            <marker date="1560769639000" expanded="true" signature="1983:2077" ph="{...}" />
+            <marker date="1560769639000" expanded="true" signature="2095:2157" ph="{...}" />
+            <marker date="1560769639000" expanded="true" signature="2176:2564" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Spine Extensions/Scripts/SpineEventsListener.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+          <folding>
+            <marker date="1560829262158" expanded="false" signature="6:78" ph="..." />
+            <marker date="1560829262158" expanded="true" signature="113:896" ph="{...}" />
+            <marker date="1560829262158" expanded="true" signature="168:894" ph="{...}" />
+            <marker date="1560829262158" expanded="true" signature="379:467" ph="{...}" />
+            <marker date="1560829262158" expanded="true" signature="496:594" ph="{...}" />
+            <marker date="1560829262158" expanded="true" signature="627:725" ph="{...}" />
+            <marker date="1560829262158" expanded="true" signature="801:888" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Spine Examples/Scripts/Getting Started Scripts/SpineboyBeginnerInput.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="54" column="28" lean-forward="true" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
+          <folding>
+            <marker date="1560769639000" expanded="true" signature="0:1688" ph="/* Spine Runtimes License Agreement ... */" />
+            <marker date="1560769639000" expanded="false" signature="1696:1734" ph="..." />
+            <marker date="1560769639000" expanded="true" signature="1767:2403" ph="{...}" />
+            <marker date="1560769639000" expanded="true" signature="1821:2400" ph="{...}" />
+            <marker date="1560769639000" expanded="false" signature="1825:2119" ph="Inspector" />
+            <marker date="1560769639000" expanded="true" signature="2028:2106" ph="{...}" />
+            <marker date="1560769639000" expanded="true" signature="2138:2397" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Spine Examples/Scripts/Getting Started Scripts/SpineboyBeginnerView.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+          <folding>
+            <marker date="1560772401715" expanded="true" signature="0:1688" ph="/* Spine Runtimes License Agreement ... */" />
+            <marker date="1560772401715" expanded="false" signature="1696:1753" ph="..." />
+            <marker date="1560772401715" expanded="true" signature="1786:4954" ph="{...}" />
+            <marker date="1560772401715" expanded="true" signature="1839:4951" ph="{...}" />
+            <marker date="1560772401715" expanded="true" signature="1844:2318" ph="Inspector" />
+            <marker date="1560772401715" expanded="true" signature="2381:2520" ph="{...}" />
+            <marker date="1560772401715" expanded="true" signature="2586:2658" ph="{...}" />
+            <marker date="1560772401715" expanded="true" signature="2677:3129" ph="{...}" />
+            <marker date="1560772401715" expanded="true" signature="2820:2920" ph="{...}" />
+            <marker date="1560772401715" expanded="true" signature="3046:3082" ph="{...}" />
+            <marker date="1560772401715" expanded="true" signature="3164:3771" ph="{...}" />
+            <marker date="1560772401715" expanded="true" signature="3405:3436" ph="{...}" />
+            <marker date="1560772401715" expanded="true" signature="3494:3549" ph="{...}" />
+            <marker date="1560772401715" expanded="true" signature="3614:3647" ph="{...}" />
+            <marker date="1560772401715" expanded="true" signature="3801:3895" ph="{...}" />
+            <marker date="1560772401715" expanded="true" signature="3951:4075" ph="{...}" />
+            <marker date="1560772401715" expanded="true" signature="4079:4795" ph="Transient Actions" />
+            <marker date="1560772401715" expanded="true" signature="4132:4591" ph="{...}" />
+            <marker date="1560772401715" expanded="true" signature="4630:4782" ph="{...}" />
+            <marker date="1560772401715" expanded="true" signature="4799:4948" ph="Utility" />
+            <marker date="1560772401715" expanded="true" signature="4868:4935" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Spine Examples/Scripts/Getting Started Scripts/SpineboyBeginnerModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-380">
+          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+          <folding>
+            <marker date="1560769639000" expanded="true" signature="0:1688" ph="/* Spine Runtimes License Agreement ... */" />
+            <marker date="1560769639000" expanded="false" signature="1696:1734" ph="..." />
+            <marker date="1560769639000" expanded="true" signature="1767:3861" ph="{...}" />
+            <marker date="1560769639000" expanded="true" signature="1838:3788" ph="{...}" />
+            <marker date="1560769639000" expanded="true" signature="1843:2075" ph="Inspector" />
+            <marker date="1560769639000" expanded="true" signature="2263:2992" ph="API" />
+            <marker date="1560769639000" expanded="true" signature="2300:2339" ph="{...}" />
+            <marker date="1560769639000" expanded="true" signature="2367:2573" ph="{...}" />
+            <marker date="1560769639000" expanded="true" signature="2456:2569" ph="{...}" />
+            <marker date="1560769639000" expanded="true" signature="2611:2979" ph="{...}" />
+            <marker date="1560769639000" expanded="true" signature="2696:2829" ph="{...}" />
+            <marker date="1560769639000" expanded="true" signature="2879:2974" ph="{...}" />
+            <marker date="1560769639000" expanded="true" signature="3023:3784" ph="{...}" />
+            <marker date="1560769639000" expanded="true" signature="3390:3521" ph="{...}" />
+            <marker date="1560769639000" expanded="true" signature="3575:3699" ph="{...}" />
+            <marker date="1560769639000" expanded="true" signature="3826:3859" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Spine Extensions/Samples/Character Controller/SampleAnimatorController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="53" column="43" selection-start-line="53" selection-start-column="43" selection-end-line="53" selection-end-column="43" />
+          <folding>
+            <marker date="1560858455774" expanded="true" signature="6:78" ph="..." />
+            <marker date="1560858455774" expanded="true" signature="133:1227" ph="{...}" />
+            <marker date="1560858455774" expanded="true" signature="228:268" ph="{...}" />
+            <marker date="1560858455774" expanded="true" signature="287:993" ph="{...}" />
+            <marker date="1560858455774" expanded="true" signature="330:438" ph="{...}" />
+            <marker date="1560858455774" expanded="true" signature="480:602" ph="{...}" />
+            <marker date="1560858455774" expanded="true" signature="615:682" ph="{...}" />
+            <marker date="1560858455774" expanded="true" signature="729:788" ph="{...}" />
+            <marker date="1560858455774" expanded="true" signature="834:986" ph="{...}" />
+            <marker date="1560858455774" expanded="true" signature="873:976" ph="{...}" />
+            <marker date="1560858455774" expanded="true" signature="1017:1224" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Spine Extensions/Scripts/SpineStateAnimationBehavior.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="48" column="97" selection-start-line="48" selection-start-column="97" selection-end-line="48" selection-end-column="97" />
+          <folding>
+            <marker date="1560859601531" expanded="true" signature="6:86" ph="..." />
+            <marker date="1560859601531" expanded="true" signature="123:2812" ph="{...}" />
+            <marker date="1560859601531" expanded="true" signature="196:2809" ph="{...}" />
+            <marker date="1560859601531" expanded="true" signature="1089:1221" ph="{...}" />
+            <marker date="1560859601531" expanded="true" signature="1336:2340" ph="{...}" />
+            <marker date="1560859601531" expanded="true" signature="1692:1818" ph="{...}" />
+            <marker date="1560859601531" expanded="true" signature="1835:2330" ph="{...}" />
+            <marker date="1560859601531" expanded="true" signature="1883:2083" ph="/* checks if the current track is null or if the current animation ... */" />
+            <marker date="1560859601531" expanded="true" signature="2178:2316" ph="{...}" />
+            <marker date="1560859601531" expanded="true" signature="2457:2802" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
