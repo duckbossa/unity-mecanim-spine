@@ -1,4 +1,6 @@
 # Spine Extensions
+**NOTE** : THIS PROJECT IS DEPRECATED SINCE THE [OFFICIAL SPINE RUNTIME](http://esotericsoftware.com/spine-unity) ALREADY HAS THIS FEATURE.
+
 
 ![sample](./readmephotos/sample.gif)
 
